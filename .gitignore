@@ -2,3 +2,7 @@ target/
 .vscode/
 *.class
 .DS_Store
+# Eclipse
+.classpath
+.project
+.settings/
